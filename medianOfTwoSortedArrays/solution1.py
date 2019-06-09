@@ -11,3 +11,7 @@ class Solution:
         else:
             # odd
            return nums1[(len(nums1)-1)//2]
+'''
+At the time of submission this code was faster than 90.71% of all Python submissions 
+and used 84.37% less memory than other Python solutions.
+'''
