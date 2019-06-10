@@ -39,6 +39,7 @@ object Solution {
           else Math.min(numsTwo(j), numsOne(i))
         (maxLeft + minRight) / 2.0
       }
+      
     }
     0.0
   }
