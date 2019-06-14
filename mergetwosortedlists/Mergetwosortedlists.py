@@ -18,3 +18,8 @@ class Solution:
         prev.next = l1 or l2
         return dummy.next
         
+'''
+Runtime: 36 ms, faster than 97.82% of Python3 online submissions for Merge Two Sorted Lists.
+Memory Usage: 13.2 MB, less than 35.93% of Python3 online submissions for Merge Two Sorted Lists.
+
+'''
