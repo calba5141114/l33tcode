@@ -10,3 +10,8 @@ class Solution(object):
             num_to_index[num] = i
 
         return []
+    
+'''
+At the time of submission this code was faster than 85.92% of all Python submissions 
+and used 46.23% less memory than other Python solutions.
+'''
