@@ -13,3 +13,9 @@ class Solution:
             i += 1
         return first[:i]
         
+'''
+Runtime: 28 ms, faster than 99.56% of Python3 online submissions for Longest Common Prefix.
+Memory Usage: 13.2 MB, less than 47.53% of Python3 online submissions for Longest Common Prefix.
+Write a function to find the longest common prefix string amongst an array of strings.
+If there is no common prefix, return an empty string "".
+'''
