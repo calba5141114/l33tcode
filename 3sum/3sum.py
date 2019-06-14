@@ -34,3 +34,7 @@ class Solution:
             while i < len(nums) - 2 and nums[i] == nums[i-1]:
                 i += 1
         return results
+
+    '''
+    Needs improvement
+    '''
