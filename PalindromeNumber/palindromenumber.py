@@ -11,4 +11,10 @@ class Solution:
         else:
             return False
         
+'''
+Runtime beats 89.67 % of python3 submissions.
+memory usage beats 47.89 % of python3 submissions.
+Determine whether an integer is a palindrome. An integer is a palindrome when it reads the same backward as forward.
+'''
+        
        
