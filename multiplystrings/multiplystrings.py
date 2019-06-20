@@ -8,5 +8,4 @@ class Solution:
   '''
   Runtime: 32 ms, faster than 99.02% of Python3 online submissions for Multiply Strings.
   Memory Usage: 13.2 MB, less than 54.64% of Python3 online submissions for Multiply Strings.
-
   '''
